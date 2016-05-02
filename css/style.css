@@ -11,6 +11,7 @@ body{
 
 .header{
 	margin: 20px;
+	text-align: center;
 }
 
 .title{
@@ -22,4 +23,8 @@ body{
 	margin: 15px;
 	padding: 10px;
 	border-radius: 20px;
+}
+
+.placeholder-image{
+	border-radius: 50%;
 }
