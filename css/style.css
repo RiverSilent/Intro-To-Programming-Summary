@@ -1,0 +1,25 @@
+body{
+	margin: 0 auto;
+	max-width: 85%;
+	font-size: 1.3em;
+}
+
+.lesson{
+	background-color: #009688;
+	border-radius: 25px;
+}
+
+.header{
+	margin: 20px;
+}
+
+.title{
+	text-align: center;
+}
+
+.concept{
+	background-color: #1de9b6;
+	margin: 15px;
+	padding: 10px;
+	border-radius: 20px;
+}
